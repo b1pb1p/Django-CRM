@@ -21,7 +21,7 @@ html5lib==1.1
 importlib-metadata==4.0.1
 ipaddr==2.2.0
 lockfile==0.12.2
-lxml==4.6.3
+lxml==4.6.5
 openpyxl==3.0.7
 pdfkit==0.6.1
 phonenumbers==8.12.23
