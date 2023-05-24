@@ -10,7 +10,7 @@ distlib==0.3.1
 distro==1.5.0
 django-cors-headers==3.7.0
 django-phonenumber-field==5.1.0
-django-ses==2.0.0
+django-ses==3.5.0
 django-settings-export==1.2.1
 django-storages==1.11.1
 djangorestframework-jwt==1.11.0
