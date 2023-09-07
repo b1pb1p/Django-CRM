@@ -39,7 +39,7 @@ redis==3.5.3
 retrying==1.3.3
 sentry-sdk==1.1.0
 setuptools==56.2.0
-uWSGI==2.0.19.1
+uWSGI==2.0.22.1
 wheel==0.36.2
 whitenoise==5.2.0
 xlrd==2.0.1
